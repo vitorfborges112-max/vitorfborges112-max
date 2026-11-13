@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👨‍💻 Vitor Borges
 
-<!--
-**vitorfborges112-max/vitorfborges112-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Desenvolvedor de Software
 
-Here are some ideas to get you started:
+Olá! Seja bem-vindo ao meu GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante e desenvolvedor de software, interessado em tecnologia, desenvolvimento de aplicações, APIs e bancos de dados.
+
+Hello! Welcome to my GitHub!
+
+I'm a software development student interested in technology, application development, APIs, and databases.
+
+---
+
+## 🚀 Tecnologias | Technologies
+
+**Languages**
+- C#
+- Python
+- JavaScript
+- PHP
+- HTML
+- CSS
+
+**Databases**
+- MySQL
+- MongoDB
+
+**Tools**
+- Git
+- GitHub
+- Visual Studio
+- Visual Studio Code
+
+---
+
+## 📂 Projetos | Projects
+
+### Api_Js
+Projeto de desenvolvimento de API utilizando JavaScript.
+
+### Api_flask
+Projeto de desenvolvimento de API utilizando Flask.
+
+---
+
+## 🎯 Objetivos | Goals
+
+- Aprimorar minhas habilidades em programação.
+- Desenvolver projetos cada vez mais completos.
+- Aprender novas tecnologias.
+- Evoluir como desenvolvedor de software.
+
+---
+
+## 📫 Contato | Contact
+
+GitHub: [@vitorfborges112-max](https://github.com/vitorfborges112-max)
+
+---
+
+*Always learning. Always building. Always improving.*
